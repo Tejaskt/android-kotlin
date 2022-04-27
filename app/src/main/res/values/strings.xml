@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">notification_firebase</string>
+    <string name="welcome_to_geeksforgeeks">Welcome to GeeksforGeeks!</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="devloped_by_tejas">Devloped by Tejas</string>
+    <string name="notification_application">Notification application</string>
+</resources>
